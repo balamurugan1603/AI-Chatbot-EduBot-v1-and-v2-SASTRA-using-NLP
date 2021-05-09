@@ -1,0 +1,82 @@
+{
+    "intents":[
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "hello", "hi there", "good evening", "good morning", "good afternoon", "hey", "is anyone there?"],
+            "responses": ["Hello!", "Hi! How can i help you?"],
+            "context_set": ""
+        },
+        {
+            "tag": "end",
+            "patterns": ["Bye", "good bye", "thank you", "no more queries", "thanks for helping", "ok", "im leaving"],
+            "responses": ["glad to help you! anymore queries? visit https://www.sastra.edu"],
+            "context_set": ""
+        },
+        {
+            "tag": "stream 1 admissions",
+            "patterns": ["stream 1 admission is done?", "stream 1?", "explain stream 1 criteria", "criteria for stream 1 admission", "admission process for stream 1", "stream 1 admission process?"],
+            "responses": ["Stream 1 Admission: Applicants under stream 1 will be admitted to 70% of the seats based on JEE (Main) 2021 percentile score and normalized +2 marks. The weightage for JEE Main scores and +2 marks will be 25% & 75% respectively"],
+            "context_set": ""
+        },
+        {
+            "tag": "stream 2 admissions",
+            "patterns": ["stream 2 admission is done?", "stream 2?", "stream 2 admission?", "explain stream 2 criteria", "criteria for stream 2 admission", "admission process for stream 2", "stream 2 admission process?"],
+            "responses": ["Stream 2 Admission: Applicants under Stream 2 will be admitted based on their normalized aggregate +2 or its equivalent marks. This is for 30% of the total seats"],
+            "context_set": ""
+        },
+        {
+            "tag": "btech admissions",
+            "patterns": ["admissions done for btech?", "admissions done for engineering?", "admissions?", "admission criteria?", "admission process?"],
+            "responses": ["Admission to the B.Tech. / 5-year Integrated M.Tech. programs will be conducted under two streams (1) Stream 1 (based on JEE(Main) 2021 scores and +2 Marks) for 70% of seats (2) Stream 2 (based on +2 marks) for 30% of seats"],
+            "context_set": ""
+        },
+        {
+            "tag": "PG admissions",
+            "patterns": ["admissions done for PG programmes?", "admissions done for PG?", "admissions done for MBA programmes?", "admissions done for MBA?", "admission criteria for PG?", "admission criteria for MBA?", "admission process for PG?", "admission process for MBA?"],
+            "responses": ["For all PG programmes, admissions will be made on the basis of the scores in the qualifying UG / PG degree programme. GATE qualified candidates will be given preference for Engineering programmes and for MBA, students with good CAT / XAT / AIMAT / CMAT / AIMCAT scores will be given preference"],
+            "context_set": ""
+        },
+        {
+            "tag": "Law admissions",
+            "patterns": ["admissions done for law?", "admissions done for law programmes?", "admission criteria for law?", "admission process for law?","law admission?"],
+            "responses": ["For all degree programmes in Law, admissions will be based on the CLAT 2021 Scores and +2 aggregate taken in the ratio of 25% : 75% respectively"],
+            "context_set": ""
+        },
+        {
+            "tag": "Other admissions",
+            "patterns": ["admissions done for bsc?", "admissions done for b.sc?", "admissions done for b.ed?", "admissions done for bed?", "admissions done for arts?", "admissions done for b.com?", "admissions done for b.com ca?", "admissions done for arts programmes?", "admissions done for arts program?","admission criteria for bsc?", "admission criteria for b.sc?", "admission criteria for b.ed?", "admission criteria for arts?", "admission criteria for b.com?", "admission criteria for b.com ca?", "admission criteria for arts programmes?", "admission criteria for arts program?", "admission procedure for bsc", "admission procedure for b.sc", "admission procedure for b.ed", "admission procedure for arts", "admission procedure for b.com", "admission procedure for b.com ca", "admission procedure for arts programmes", "admission procedure for arts program"],
+            "responses":["For degree programmes in Sciences, Arts, Commerce, Education, etc., admissions will be based on the qualifying exam marks."],
+            "context_set": ""
+        },
+        {
+            "tag": "courses offered",
+            "patterns": ["available courses in your college?", "courses are available?", "courses offered by the university?", "courses in sastra?", "courses are available?", "degree programmes are available?", "degree programs offered by the university"],
+            "responses": ["B.Tech., 5-Year integrated M.Tech., M.Tech., M.Sc. (2-year programmes in Biotechnology, Chemistry, Data Sciences, Molecular Genetics, Bio-Informatics & Physics), M.C.A., M.B.A., B.Com. (CA), B. Com. (BFSI), B.A./B.Com./B.B.A., LL.B, (Hons.) , B.Sc./B.A., B.Ed. (4-year integrated programmes in English, Mathematics & Physics), M.Sc. (5-year integrated programmes in Biotechnology, Chemistry, Data Sciences & Physics), M. Optom & B. Optom in its Main Campus in Thanjavur. B. Sc., B.Com, B.B.A., B.C.A., M.Sc. (Computer Science, Mathematics, Bio-Chemistry & Microbiology), M.Com. and B. Tech. (CSE & ECE) courses are offered in Srinivasa Ramanujan Centre (off-campus centre of SASTRA recognized by Govt. of India) in Kumbakonam"],
+            "context_set": ""
+        },
+        {
+            "tag": "NRI admissions",
+            "patterns": ["apply for nri admission?", "apply in nri quota?", "nri admission here?", "nri admission?", "nri quota available?"],
+            "responses": ["As per the Government norms, provision is made for NRI admissions. Interested students may kindly contact the Office of admissions as per details given on website"],
+            "context_set": ""
+        },
+        {
+            "tag": "Non merit queries",
+            "patterns": ["way to enter sastra without merit?", "seat reserved before under merit category?", "join sastra without merit?"],
+            "responses": ["Admission will be based only on merit after the rank list is released. Only NRI sponsored students' can approach the Office of Admissions for more admission information."],
+            "context_set": ""
+        },
+        {
+            "tag": "quota availablity",
+            "patterns": ["quota available in sastra?", "quota available?", "quota availablity?", "quotas?", "reservation of seats in sastra?", "reservation system?", "quotas available?"],
+            "responses": ["There is reservation under three categories - 'Thanjavur quota', 'Trichy quota' and 'Tamilnadu quota'"],
+            "context_set": ""
+        },
+        {
+            "tag": "contact details",
+            "patterns": ["contact for further queries?", "contact details?", "contact regarding admissions?", "contact regarding nri admission?", "contact regarding nri admission?", "admission related queries"],
+            "responses": ["I will try helping you with whatever i know! CONTACT-FOR GENERAL QUERIES : SASTRA DEEMED UNIVERSITY, Tirumalaisamudram, Thanjavur - 613401, Tamilnadu, India. CONTACT-FOR ADMISSION RELATED QUERIES : admissions@sastra.edu"],
+            "context_set": ""
+        }
+    ]
+}
