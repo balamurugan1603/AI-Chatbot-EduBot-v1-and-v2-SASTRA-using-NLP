@@ -7,7 +7,7 @@ from tensorflow.keras.layers import Dense
 from tensorflow.keras.models import save_model
 
 # loading training data from json file
-with open("training_data.json", "r") as file:
+with open("training_data_v1.json", "r") as file:
     intents = json.load(file)
 
 words = []
