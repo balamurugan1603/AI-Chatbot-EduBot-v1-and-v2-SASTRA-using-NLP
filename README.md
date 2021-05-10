@@ -1,4 +1,4 @@
-# AI-Chatbot-EduBot_V1
+# AI-Chatbot-EduBot_v1-and-v2
 
 * This project is based on NLP and deep neural networks.
 * I have used frequently asked questions and answers data from SASTRA DEEMED TO BE UNIVERSITY's website to train EduBot_V1.
