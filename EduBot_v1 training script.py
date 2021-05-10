@@ -60,5 +60,8 @@ edubot.add(Dense(6))
 edubot.add(Dense(len(output[0]), activation="softmax"))
 edubot.compile(optimizer="rmsprop", loss="categorical_crossentropy", metrics=["accuracy"])
 
+# fitting
+edubot.fit(training, output, epochs=118, batch_size=20)
+
 # saving the model
-save_model(edubot, "edubot_v1")
+save_model(edubot, "EduBot_v1")
