@@ -1,0 +1,893 @@
+patterns,tags
+version,intro
+name,intro
+about yourself,intro
+hi,greeting
+hello,greeting
+hi there,greeting
+good morning,greeting
+good afternoon,greeting
+good evening,greeting
+hlo,greeting
+hii,greeting
+hey,greeting
+join sastra,engineering admission
+admissions in stream 1 and stream 2,engineering admission
+admission in stream 1 and stream 2,engineering admission
+admissions in stream 1 and 2,engineering admission
+admissions stream 2,engineering admission
+admission in stream 1 and 2,engineering admission
+admission stream 2,engineering admission
+engineering admission,engineering admission
+stream two admission for engineering,engineering admission
+stream two admission for btech,engineering admission
+stream two admission for b.tech,engineering admission
+stream one and stream two admission,engineering admission
+stream one and stream two admissions,engineering admission
+stream one and stream two,engineering admission
+stream two admission,engineering admission
+stream two admissions,engineering admission
+stream two admissions for b.tech,engineering admission
+stream two admissions for engineering,engineering admission
+admission,engineering admission
+stream 2 admissions for b.tech,engineering admission
+admission for btech,engineering admission
+admission for engineering,engineering admission
+admissions,engineering admission
+engineering admissions,engineering admission
+btech admission,engineering admission
+btech admissions,engineering admission
+b.tech admissions,engineering admission
+b.tech admission,engineering admission
+admissions PG programmes,PG  admission
+PG admissions,PG  admission
+MBA admissions,PG  admission
+MBA admission,PG  admission
+PG admission,PG  admission
+admissions PG,PG  admission
+admissions MBA programmes,PG  admission
+admissions MBA,PG  admission
+admission PG programmes,PG  admission
+admission PG programs,PG  admission
+admission PG program,PG  admission
+admission MBA programs,PG  admission
+admission MBA program,PG  admission
+admissions PG programs,PG  admission
+admission PG program,PG  admission
+admission PG,PG  admission
+admissions MBA programs,PG  admission
+admission MBA,PG  admission
+admissions MBA program,PG  admission
+admissions law,law admission
+admission law,law admission
+admissions law programmes,law admission
+admission law programmes,law admission
+admissions law programs,law admission
+admission law programs,law admission
+admission law program,law admission
+law admission,law admission
+law admissions,law admission
+law program admission,law admission
+law programs admission,law admission
+law program admissions,law admission
+law programs admissions,law admission
+law programme admission,law admission
+law programme admissions,law admission
+admissions law program,law admission
+admissions bsc,other admissions
+admission bsc,other admissions
+admission b.sc,other admissions
+admissions b.sc,other admissions
+admissions bed,other admissions
+admissions b.ed,other admissions
+admission bed,other admissions
+admission b.ed,other admissions
+admissions arts,other admissions
+admission arts,other admissions
+arts admission,other admissions
+arts admissions,other admissions
+bsc admission,other admissions
+bsc admissions,other admissions
+b.sc admissions,other admissions
+b.sc admission,other admissions
+b.ed admissions,other admissions
+bed admissions,other admissions
+b.ed admission,other admissions
+bed admission,other admissions
+admission b.com,other admissions
+admissions b.com,other admissions
+admission bcom,other admissions
+admissions b.com,other admissions
+bcom admissions,other admissions
+b.com admissions,other admissions
+bcom admission,other admissions
+b.com admission,other admissions
+admissions b.com ca,other admissions
+admission b.com ca,other admissions
+admissions bcom ca,other admissions
+admission bcom ca,other admissions
+b.com ca admissions,other admissions
+bcom ca admissions,other admissions
+b.com ca admission,other admissions
+bcom ca admission,other admissions
+admission arts programme,other admissions
+admission arts program,other admissions
+admissions arts program,other admissions
+admissions arts programme,other admissions
+NRI admissions,nri admission
+NRI admission,nri admission
+admission NRI,nri admission
+admissions NRI,nri admission
+NRI,nri admission
+NRI quota,nri admission
+NRI quotas,nri admission
+quota NRI,nri admission
+quotas NRI,nri admission
+NRI reservation,nri admission
+reservation for NRI,nri admission
+quota availability,quota availability
+quotas availability,quota availability
+available quotas,quota availability
+available quota,quota availability
+quota,quota availability
+quotas,quota availability
+reservations,quota availability
+reservations available,quota availability
+reservations availability,quota availability
+reservation,quota availability
+reservation available,quota availability
+reservation availability,quota availability
+available reservation,quota availability
+available reservations,quota availability
+availability of reservations,quota availability
+availability of reservation,quota availability
+reservation system,quota availability
+reservation of seats,quota availability
+seat reservation,quota availability
+seats reservation,quota availability
+thanjavur quota ,quota availability
+thanjavur quota reservation,quota availability
+reservation for thanjavur quota,quota availability
+reservations under thanjavur quota,quota availability
+trichy quota reservation,quota availability
+reservation for trichy quota,quota availability
+reservations under trcihy quota,quota availability
+trichy quota,quota availability
+tamilnadu quota,quota availability
+tamil nadu quota,quota availability
+tamilnadu quota reservation,quota availability
+tamil nadu quota reservation,quota availability
+reservation for tamilnadu quota,quota availability
+reservation for tamil nadu quota,quota availability
+reservations under tamilnadu quota,quota availability
+reservations under tamil nadu quota,quota availability
+available courses,courses offered
+available course,courses offered
+courses available,courses offered
+course available,courses offered
+courses offered,courses offered
+offered courses,courses offered
+course offered,courses offered
+offered course,courses offered
+availability of courses,courses offered
+availability of course,courses offered
+course availability,courses offered
+courses availability,courses offered
+degree programs available,courses offered
+degree programmes available,courses offered
+degree program available,courses offered
+degree programs availability,courses offered
+degree programmes availability,courses offered
+degree program availability,courses offered
+ available degrees,courses offered
+availability of degrees,courses offered
+degree course available,courses offered
+degree courses available,courses offered
+degree course availability,courses offered
+degree courses availability,courses offered
+offered degree courses,courses offered
+offered degree course,courses offered
+offered degree programs,courses offered
+offered degree program,courses offered
+offered degree programmes,courses offered
+degree courses offered,courses offered
+degree course offered,courses offered
+degree program offered,courses offered
+degree programs offered,courses offered
+degree programmes offered,courses offered
+contact details,contact details
+details for contact,contact details
+communication details,contact details
+details for communication,contact details
+contact detail,contact details
+detail for contact,contact details
+communication detail,contact details
+detail for communication,contact details
+details for contacting,contact details
+contacting details,contact details
+contact regarding queries,contact details
+contact regarding issues,contact details
+queries,contact details
+issues,contact details
+contact,contact details
+contact for further queries,contact details
+queries regarding contact,contact details
+contact issues,contact details
+queries regarding communication,contact details
+okay good bye,end conversation
+okay goodbye,end conversation
+okay thank you,end conversation
+okay thank u,end conversation
+okay see you later,end conversation
+okay im leaving,end conversation
+okay thanks for the details,end conversation
+okay bye,end conversation
+okay byee,end conversation
+okay thanks for your help,end conversation
+okay thanks for the information,end conversation
+ok good bye,end conversation
+ok goodbye,end conversation
+ok thank you,end conversation
+ok thank u,end conversation
+ok see you later,end conversation
+ok im leaving,end conversation
+ok thanks for the details,end conversation
+ok bye,end conversation
+ok byee,end conversation
+ok thanks for your help,end conversation
+ok thanks for the information,end conversation
+good bye,end conversation
+goodbye,end conversation
+thank you,end conversation
+thank u,end conversation
+see you later,end conversation
+im leaving,end conversation
+thanks for the details,end conversation
+bye,end conversation
+byee,end conversation
+ok thanks,end conversation
+thanks,end conversation
+thanks for your help,end conversation
+thanks for the information,end conversation
+about college,about sastra
+college position,about sastra
+college rankings,about sastra
+college ranking,about sastra
+rankings college,about sastra
+ranking college,about sastra
+accredition college,about sastra
+college accredition,about sastra
+good college,about sastra
+about university,about sastra
+university position,about sastra
+university rankings,about sastra
+university ranking,about sastra
+rankings university,about sastra
+ranking university,about sastra
+accredition sastra,about sastra
+sastra accredition,about sastra
+good sastra,about sastra
+sastra good,about sastra
+about sastra,about sastra
+sastra position,about sastra
+sastra rankings,about sastra
+sastra ranking,about sastra
+rankings sastra,about sastra
+ranking sastra,about sastra
+accredition sastra,about sastra
+sastra accredition,about sastra
+good sastra,about sastra
+sastra good,about sastra
+fee,fee structure
+fees btech,fee structure
+fees engineering,fee structure
+fees b.tech,fee structure
+fee btech,fee structure
+fee engineering,fee structure
+fee b.tech,fee structure
+btech fees,fee structure
+engineering fees,fee structure
+btech fee,fee structure
+engineering fee,fee structure
+nri fees,fee structure
+nri fee,fee structure
+fees nri,fee structure
+fee nri,fee structure
+law fee,fee structure
+law fees,fee structure
+fee law,fee structure
+fees law,fee structure
+law fee structure,fee structure
+law fees structure,fee structure
+fees structure,fee structure
+mba fees,fee structure
+mba fee,fee structure
+mba fee structure,fee structure
+mba fees structure,fee structure
+fee mba,fee structure
+fees mba,fee structure
+pg fees,fee structure
+pg fee,fee structure
+pg fee structure,fee structure
+pg fees structure,fee structure
+fee pg,fee structure
+fees pg,fee structure
+fee bsc,fee structure
+fee b.sc,fee structure
+fees bsc,fee structure
+fees b.sc,fee structure
+bsc fee,fee structure
+b.sc fees,fee structure
+bsc fee structure,fee structure
+fee structure bsc,fee structure
+bsc fees structure,fee structure
+fees structure bsc,fee structure
+nri fee structure,fee structure
+fee structure nri,fee structure
+fees structure nri,fee structure
+nri fees structure,fee structure
+bcom fee,fee structure
+b.com fees,fee structure
+fee bcom,fee structure
+fees bcom,fee structure
+bcom fees,fee structure
+b.com fee,fee structure
+fee b.com,fee structure
+fees b.com,fee structure
+fee structure bcom,fee structure
+fee structure b.com,fee structure
+fees structure bcom,fee structure
+fees structure b.com,fee structure
+b.com fee structure,fee structure
+bcom fee structure,fee structure
+b.com fees structure,fee structure
+bcom fees structure,fee structure
+bcom ca fee,fee structure
+b.com ca fees,fee structure
+fee bcom ca,fee structure
+fees bcom ca,fee structure
+bcom ca fees,fee structure
+b.com ca fee,fee structure
+fee b.com ca,fee structure
+fees b.com ca,fee structure
+fee structure bcom ca,fee structure
+fee structure b.com ca,fee structure
+fees structure bcom ca,fee structure
+fees structure b.com ca,fee structure
+b.com ca fee structure,fee structure
+bcom ca fee structure,fee structure
+b.com ca fees structure,fee structure
+bcom ca fees structure,fee structure
+bed fee,fee structure
+b.ed fees,fee structure
+fee bed,fee structure
+fees bed,fee structure
+bed fees,fee structure
+b.ed fee,fee structure
+fee b.ed,fee structure
+fees b.ed,fee structure
+fee structure bed,fee structure
+fee structure b.ed,fee structure
+fees structure bed,fee structure
+fees structure b.ed,fee structure
+b.ed fee structure,fee structure
+bed fee structure,fee structure
+b.ed fees structure,fee structure
+bed fees structure,fee structure
+arts fee,fee structure
+arts fees,fee structure
+fee arts,fee structure
+fees arts,fee structure
+fee structure arts,fee structure
+fees structure arts,fee structure
+arts fee structure,fee structure
+hostel fee,fee structure
+hostel fees,fee structure
+fee hostel,fee structure
+fees hostel,fee structure
+fee structure hostel,fee structure
+hostel fee structure,fee structure
+hostel fees structure,fee structure
+mess fee,fee structure
+mess fees,fee structure
+fee mess,fee structure
+fees mess,fee structure
+fees structure hostel,fee structure
+arts fees structure,fee structure
+hostel available,hostel availability
+hostel availability,hostel availability
+availabe hostel,hostel availability
+availability hostel,hostel availability
+hostels available,hostel availability
+hostels availability,hostel availability
+available hostels,hostel availability
+availability hostels,hostel availability
+hostel facility available,hostel availability
+hostels facility available,hostel availability
+available hostel facility,hostel availability
+available hostels facility,hostel availability
+available hostel facilities,hostel availability
+availabe hostels facilities,hostel availability
+hostel,hostel availability
+hostels,hostel availability
+hostel facilities available,hostel availability
+hostels facilities available,hostel availability
+hostel facility availability,hostel availability
+hostel facilities availability,hostel availability
+hostels facility availability,hostel availability
+hostels facilities availability,hostel availability
+availability hostel facility,hostel availability
+availability hostel facilities,hostel availability
+availability hostels facilities,hostel availability
+availability hostels facility,hostel availability
+web interface,student web interface
+access web interface,student web interface
+accessing web interface,student web interface
+web interface access,student web interface
+student web interface,student web interface
+access student web interface,student web interface
+accessing student web interface,student web interface
+student web interface access,student web interface
+student web portal,student web interface
+web portal,student web interface
+access web portal,student web interface
+accessing web portal,student web interface
+web portal access,student web interface
+access student web portal,student web interface
+accessing student web portal,student web interface
+student web portal access,student web interface
+parent web interface,parent web interface
+access parent web interface,parent web interface
+accessing parent web interface,parent web interface
+parent web interface access,parent web interface
+parent web portal,parent web interface
+access parent web portal,parent web interface
+accessing parent web portal,parent web interface
+parent web portal access,parent web interface
+gym,gym facility
+gym available,gym facility
+gym availability,gym facility
+gyms,gym facility
+gyms available,gym facility
+gyms availability,gym facility
+available gym,gym facility
+available gyms,gym facility
+availability gym,gym facility
+availability gyms,gym facility
+shuttle court,badminton facility
+shuttle court available,badminton facility
+shuttle court availability,badminton facility
+shuttle courts,badminton facility
+shuttle courts available,badminton facility
+shuttle courts availability,badminton facility
+available shuttle court,badminton facility
+available shuttle courts,badminton facility
+availability shuttle court,badminton facility
+availability shuttle courts,badminton facility
+badminton court,badminton facility
+badminton court available,badminton facility
+badminton court availability,badminton facility
+badminton courts,badminton facility
+badminton courts available,badminton facility
+badminton courts availability,badminton facility
+available badminton court,badminton facility
+available badminton courts,badminton facility
+availability badminton court,badminton facility
+availability badminton courts,badminton facility
+football court,football facility
+football court available,football facility
+football court availability,football facility
+football courts,football facility
+football courts available,football facility
+football courts availability,football facility
+available football court,football facility
+available football courts,football facility
+availability football court,football facility
+availability football courts,football facility
+football,football facility
+football available,football facility
+football availability,football facility
+available football,football facility
+availability football,football facility
+soccer,football facility
+soccer available,football facility
+soccer availability,football facility
+available soccer,football facility
+availability soccer,football facility
+soccer court,football facility
+soccer court available,football facility
+soccer court availability,football facility
+soccer courts,football facility
+soccer courts available,football facility
+soccer courts availability,football facility
+available soccer court,football facility
+available soccer courts,football facility
+availability soccer court,football facility
+availability soccer courts,football facility
+cricket ground,cricket facility
+cricket ground available,cricket facility
+cricket ground availability,cricket facility
+cricket grounds,cricket facility
+cricket grounds available,cricket facility
+cricket grounds availability,cricket facility
+available cricket ground,cricket facility
+available cricket grounds,cricket facility
+availability cricket ground,cricket facility
+availability cricket grounds,cricket facility
+cricket,cricket facility
+cricket available,cricket facility
+cricket availability,cricket facility
+available cricket,cricket facility
+availability cricket,cricket facility
+ball badminton court,ball badminton facility
+ball badminton court available,ball badminton facility
+ball badminton court availability,ball badminton facility
+ball badminton courts,ball badminton facility
+ball badminton courts available,ball badminton facility
+ball badminton courts availability,ball badminton facility
+available ball badminton court,ball badminton facility
+available ball badminton courts,ball badminton facility
+availability ball badminton court,ball badminton facility
+availability ball badminton courts,ball badminton facility
+athletics,athletics facility
+athletics available,athletics facility
+athletics availability,athletics facility
+available athletics,athletics facility
+availability athletics,athletics facility
+athletics stadium,athletics facility
+athletics stadium available,athletics facility
+athletics stadium availability,athletics facility
+available athletics stadium,athletics facility
+availability athletics stadium,athletics facility
+athletics ground,athletics facility
+athletics ground available,athletics facility
+athletics ground availability,athletics facility
+available athletics ground,athletics facility
+availability athletics ground,athletics facility
+athletics stadiums,athletics facility
+athletics stadiums available,athletics facility
+athletics stadiums availability,athletics facility
+available athletics stadiums,athletics facility
+availability athletics stadiums,athletics facility
+athletics grounds,athletics facility
+athletics grounds available,athletics facility
+athletics grounds availability,athletics facility
+available athletics grounds,athletics facility
+availability athletics grounds,athletics facility
+football ground,football facility
+football ground available,football facility
+football ground availability,football facility
+football grounds,football facility
+football grounds available,football facility
+football grounds availability,football facility
+available football ground,football facility
+available football grounds,football facility
+availability football ground,football facility
+availability football grounds,football facility
+football stadium,football facility
+football stadium available,football facility
+football stadium availability,football facility
+football stadiums,football facility
+football stadiums available,football facility
+football stadiums availability,football facility
+available football stadium,football facility
+available football stadiums,football facility
+availability football stadium,football facility
+availability football stadiums,football facility
+cricket stadium,cricket facility
+cricket stadium available,cricket facility
+cricket stadium availability,cricket facility
+cricket stadiums,cricket facility
+cricket stadiums available,cricket facility
+cricket stadiums availability,cricket facility
+available cricket stadium,cricket facility
+available cricket stadiums,cricket facility
+availability cricket stadium,cricket facility
+availability cricket stadiums,cricket facility
+tennis court,tennis facility
+tennis court available,tennis facility
+tennis court availability,tennis facility
+tennis courts,tennis facility
+tennis courts available,tennis facility
+tennis courts availability,tennis facility
+available tennis court,tennis facility
+available tennis courts,tennis facility
+availability tennis court,tennis facility
+availability tennis courts,tennis facility
+tennis,tennis facility
+tennis available,tennis facility
+tennis availability,tennis facility
+available tennis,tennis facility
+availability tennis,tennis facility
+archery,archery facility
+archery available,archery facility
+archery availability,archery facility
+available archery,archery facility
+availability archery,archery facility
+swimming,swimming facility
+swimming available,swimming facility
+swimming availability,swimming facility
+available swimming,swimming facility
+availability swimming,swimming facility
+swimming pool,swimming facility
+swimming pool available,swimming facility
+swimming pool availability,swimming facility
+available swimming pool,swimming facility
+availability swimming pool,swimming facility
+basketball court,basketball facility
+basketball court available,basketball facility
+basketball court availability,basketball facility
+basketball courts,basketball facility
+basketball courts available,basketball facility
+basketball courts availability,basketball facility
+available basketball court,basketball facility
+available basketball courts,basketball facility
+availability basketball court,basketball facility
+availability basketball courts,basketball facility
+basketball,basketball facility
+basketball available,basketball facility
+basketball availability,basketball facility
+available basketball,basketball facility
+availability basketball,basketball facility
+billiards,billiards facility
+billiards available,billiards facility
+billiards availability,billiards facility
+available billiards,billiards facility
+availability billiards,billiards facility
+table tennis,table tennis facility
+table tennis available,table tennis facility
+table tennis availability,table tennis facility
+available table tennis,table tennis facility
+availability table tennis,table tennis facility
+carrom,carrom facility
+carrom available,carrom facility
+carrom availability,carrom facility
+available carrom,carrom facility
+availability carrom,carrom facility
+sport,sports facility
+sports,sports facility
+sport facilities,sports facility
+sports facilities,sports facility
+sport facility,sports facility
+sports facilty,sports facility
+available sport,sports facility
+available sports,sports facility
+sports available,sports facility
+sport available,sports facility
+sport availability,sports facility
+sports availability,sports facility
+availability sport,sports facility
+availability sports,sports facility
+stadiums availability,sports facility
+stadiums available,sports facility
+availability stadium,sports facility
+available stadium,sports facility
+stadium available,sports facility
+availability stadiums,sports facility
+available stadiums,sports facility
+stadium availability,sports facility
+library,library facility
+library available,library facility
+library availability,library facility
+available library,library facility
+availability library,library facility
+libraries,library facility
+libraries available,library facility
+libraries availability,library facility
+available libraries,library facility
+availability libraries,library facility
+library facility,library facility
+library facilities,library facility
+facility library,library facility
+libraries facility,library facility
+libraries facilities,library facility
+facility libraries,library facility
+facilities libraries,library facility
+facilities library,library facility
+food,canteen facility
+food available,canteen facility
+food availablility,canteen facility
+available food,canteen facility
+availability food,canteen facility
+canteen,canteen facility
+canteens,canteen facility
+canteen available,canteen facility
+canteens available,canteen facility
+canteen availability,canteen facility
+canteens availability,canteen facility
+available canteen,canteen facility
+available canteens,canteen facility
+availability canteen,canteen facility
+availability canteens,canteen facility
+canteen facility,canteen facility
+canteen facilities,canteen facility
+facility canteen,canteen facility
+canteens facility,canteen facility
+canteens facilities,canteen facility
+facility canteens,canteen facility
+facilities canteens,canteen facility
+facilities canteen,canteen facility
+food facility,canteen facility
+food facilities,canteen facility
+facility food,canteen facility
+facilities food,canteen facility
+lab,research facility
+labs,research facility
+lab available,research facility
+labs available,research facility
+lab availability,research facility
+labs availability,research facility
+available lab,research facility
+available labs,research facility
+availability lab,research facility
+availability labs,research facility
+lab facility,research facility
+labs facility,research facility
+facility lab,research facility
+facility labs,research facility
+lab facilities,research facility
+labs facilities,research facility
+facilities lab,research facility
+facilities labs,research facility
+research,research facility
+research lab,research facility
+research labs,research facility
+research available,research facility
+research lab available,research facility
+research labs available,research facility
+available research,research facility
+available research lab,research facility
+available research labs,research facility
+research availability,research facility
+research lab availability,research facility
+research labs availability,research facility
+availability research,research facility
+availability research lab,research facility
+availability research labs,research facility
+research facility,research facility
+research lab facility,research facility
+research labs facility,research facility
+research facilities,research facility
+research lab facilities,research facility
+research labs facilities,research facility
+facility research,research facility
+facility research lab,research facility
+facility research labs,research facility
+facilities research,research facility
+facilities research lab,research facility
+facilities research labs,research facility
+wi-fi,wifi facility
+wifi,wifi facility
+internet,wifi facility
+wi-fi available,wifi facility
+wifi available,wifi facility
+internet available,wifi facility
+wi-fi availability,wifi facility
+wifi availability,wifi facility
+internet availability,wifi facility
+available wi-fi,wifi facility
+available wifi,wifi facility
+available internet,wifi facility
+availability wi-fi,wifi facility
+availability wifi,wifi facility
+availability internet,wifi facility
+wi-fi facility,wifi facility
+wifi facility,wifi facility
+internet facility,wifi facility
+wi-fi facilities,wifi facility
+wifi facilities,wifi facility
+internet facilities,wifi facility
+facility wi-fi,wifi facility
+facility wifi,wifi facility
+facility internet,wifi facility
+facilities wi-fi,wifi facility
+facilities wifi,wifi facility
+facilities internet,wifi facility
+inter college events,events
+inter college event,events
+main events sastra,events
+sastra main events,events
+big events sastra,events
+sastra big events,events
+events,events
+main events,events
+big events,events
+event,events
+inter college cultural events,cultural events
+inter college cultural event,cultural events
+main cultural events sastra,cultural events
+sastra main cultural events,cultural events
+big cultural events sastra,cultural events
+sastra big cultural events,cultural events
+cultural events,cultural events
+main cultural events,cultural events
+big cultural events,cultural events
+cultural event,cultural events
+culturals,cultural events
+inter college culturals,cultural events
+sastra culturals event,cultural events
+culturals sastra,cultural events
+cultural festival sastra,cultural events
+cultural fest sastra,cultural events
+cultural fests sastra,cultural events
+cultural festival,cultural events
+cultural fest,cultural events
+culturals festival,cultural events
+culturals fest,cultural events
+cultural festivals,cultural events
+cultural fests,cultural events
+sastra culturals,cultural events
+kuruksastra,cultural events
+kurukshastra,cultural events
+kuruksastra event,cultural events
+kuruksastra events,cultural events
+kurukshastra event,cultural events
+kurukshastra events,cultural events
+inter college sports events,sport events
+inter college sports event,sport events
+main sports events sastra,sport events
+sastra main sports events,sport events
+big sports events sastra,sport events
+sastra big sports events,sport events
+sports events,sport events
+main sports events,sport events
+big sports events,sport events
+sports event,sport events
+inter college sports,sport events
+sastra sports event,sport events
+sports sastra,sport events
+sastra sports,sport events
+colosseum,sport events
+collosseum,sport events
+colloseum,sport events
+colloseum event,sport events
+colloseum events,sport events
+colosseum event,sport events
+colosseum events,sport events
+collosseum event,sport events
+collosseum events,sport events
+sports festival sastra,sport events
+sports fest sastra,sport events
+sports fests sastra,sport events
+sports festival,sport events
+sports fest,sport events
+sports festival,sport events
+sports fest,sport events
+sports festivals,sport events
+sports fests,sport events
+sport festival sastra,sport events
+sport fest sastra,sport events
+sport fests sastra,sport events
+sport festival,sport events
+sport fest,sport events
+sport festival,sport events
+sport fest,sport events
+sport festivals,sport events
+sport fests,sport events
+inter college technical events,technical events
+inter college technical event,technical events
+main technical events sastra,technical events
+sastra main technical events,technical events
+big technical events sastra,technical events
+sastra big technical events,technical events
+technical events,technical events
+main technical events,technical events
+big technical events,technical events
+technical event,technical events
+inter college techn events,technical events
+sastra tech event,technical events
+technical festival sastra,technical events
+technical fest sastra,technical events
+technical fests sastra,technical events
+technical festival,technical events
+technical fest,technical events
+tech festival,technical events
+tech fest,technical events
+technical festivals,technical events
+technical fests,technical events
+daksh,technical events
+dhaksh,technical events
+daksh event,technical events
+daksh events,technical events
+dhaksh event,technical events
+dhaksh events,technical events
