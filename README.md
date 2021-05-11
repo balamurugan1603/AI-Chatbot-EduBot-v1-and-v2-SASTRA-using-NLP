@@ -1,9 +1,9 @@
 # AI-Chatbot-EduBot_v1-and-v2
 
-* This project is based on NLP and deep neural networks.
-* I have used frequently asked questions and answers data from SASTRA DEEMED TO BE UNIVERSITY's website to train EduBot_V1.
-* First the data is made into a json file containing different tags(categories), Questions and Replies.
-* Then the data is converted to bag of words format and fed to the neural network along with the tags as output.
-* Then input is taken from the user and preprocessed into same bag of words format and fed to the network and predicted probablities for different tags is obtained.
-* The replies stored under the tag with highest predicted probablity is shown as reply to the user randomly.
-* The project is not complete yet. I will update with more detailed write up once this is complete.
+* This project is based on NLP and DNN to reply for the queries of the users regarding SASTRA University.
+* I have used frequently asked questions and answers data from SASTRA DEEMED TO BE UNIVERSITY's website along with My own created data to train EduBot_v1 and EduBot_v2.
+* The whole script works based on Intent matching - NLP algorithm and Deep Neural Network.
+* version 1 of EduBot - EduBot_v1 is a failure model. It was trained only on monograms with simple word occurance vectors of data and was not learning patterns in data efficiently. It does not gave expected outputs. This was optimised in version 2.
+* version 2 of EduBot - EduBot_v2 is the successfully working updated model. This model was trained both on monograms and bigrams with Tf-Idf score vector of the data. It works well with great accuracy and can answer any general questions regarding SASTRA University.
+* It is to be noted that this project is done only for academic purpose and usage of SASTRA University's name and data is only for demo purposes. The truthfullness of the data is unknown.
+* For more details about the project files check readme.txt files in respective project folders. 
