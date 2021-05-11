@@ -1,6 +1,6 @@
 # AI-Chatbot-EduBot_v1-and-v2
 
-* This project is based on NLP and DNN to reply for the queries of the users regarding SASTRA University.
+* This project is based on NLP and DNN to reply intelligently to the queries of the users regarding SASTRA University.
 * I have used frequently asked questions and answers data from SASTRA DEEMED TO BE UNIVERSITY's website along with My own created data to train EduBot_v1 and EduBot_v2.
 * The whole script works based on Intent matching - NLP algorithm and Deep Neural Network.
 * version 1 of EduBot - EduBot_v1 is a failure model. It was trained only on monograms with simple word occurance vectors of data and was not learning patterns in data efficiently. It does not gave expected outputs. This was optimised in version 2.
