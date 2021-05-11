@@ -6,4 +6,4 @@
 * version 1 of EduBot - EduBot_v1 is a failure model. It was trained only on monograms with simple word occurance vectors of data and was not learning patterns in data efficiently. It does not gave expected outputs. This was optimised in version 2.
 * version 2 of EduBot - EduBot_v2 is the successfully working updated model. This model was trained both on monograms and bigrams with Tf-Idf score vector of the data. It works well with great accuracy and can answer any general questions regarding SASTRA University.
 * It is to be noted that this project is done only for academic purpose and usage of SASTRA University's name and data is only for demo purposes. The truthfullness of the data is unknown.
-* For more details about the project files check readme.txt files in respective project folders. 
+* For more details about the project files check README files in respective project folders. 
