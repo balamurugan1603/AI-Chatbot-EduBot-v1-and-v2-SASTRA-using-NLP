@@ -1,4 +1,4 @@
-# AI-Chatbot-EduBot_v1-and-v2
+# AI-Chatbot-EduBot-v1-and-v2-SASTRA
 
 * This project is based on NLP and DNN to reply intelligently to the queries of the users regarding SASTRA University.
 * I have used frequently asked questions and answers data from SASTRA DEEMED TO BE UNIVERSITY's website along with My own created data to train EduBot_v1 and EduBot_v2.
