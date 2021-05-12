@@ -57,6 +57,7 @@ with the intents in training data and displayed to the user.
 
 **************************************************************************
 NOTE: 
+
 * EduBot_v1 is a failure version and was not learning the patterns in the data so well.
 Because it was trained only on monograms and simple bag of words representation of 
 data where value 1 if word is present and 0 if word is not present in the word corpus. 
