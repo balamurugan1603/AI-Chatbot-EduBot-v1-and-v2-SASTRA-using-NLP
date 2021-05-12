@@ -61,7 +61,5 @@ the user input. The predicted intent will be matched with the intents in respons
 and the corresponding response is diplayed to the user.
 * "start_chat" function is invoked. So that the user can start interacting with the chatbot.
 
-**************************************************************************
-
 
 
