@@ -5,7 +5,8 @@ UPDATES FROM EduBot_v1:
 
 * EduBot_v2 was trained on both monograms and bigrams.
 * This was trained with Tf-Idf scores vectors of the data instead of simple word 
-presence vectors which was used to train EduBot_v1. 
+presence vectors which was used to train EduBot_v1.
+* EduBot_v2 was trained with relatively more data compared to EduBot_v1.
 
 **************************************************************************
 FILE DESCRIPTION :
